@@ -1,6 +1,6 @@
 -- Module 7 Challenge
 -- Employee_Database_challenge.sql
-
+-- Deliverable 1
 SELECT e.emp_no,
 	e.first_name,
 	e.last_name,
@@ -20,7 +20,7 @@ SELECT DISTINCT ON (rt.emp_no) rt.emp_no,
 rt.first_name,
 rt.last_name,
 rt.title
-INTO unique_titles
+--INTO unique_titles
 FROM retirement_titles AS rt
 ORDER BY emp_no ASC, to_date DESC;
 
