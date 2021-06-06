@@ -142,6 +142,7 @@ SELECT * FROM salaries;
 SELECT * FROM salaries
 ORDER BY to_date DESC;
 
+-- List 1: Employee Information
 SELECT e.emp_no, e.first_name, e.last_name, e.gender, s.salary, de.to_date
 -- INTO emp_info
 FROM employees AS e
@@ -181,5 +182,34 @@ ON (ce.emp_no = de.emp_no)
 INNER JOIN departments AS d
 ON (de.dept_no = d.dept_no);
 
+
+-- 7.3.6: Create a Tailored List
+-- Like the retirement_info but with only 'Sales' 
+SELECT ri.emp_no,
+	ri.first_name,
+	ri.last_name,
+	d.dept_name
+-- INTO sales_emp
+FROM retirement_info as ri
+INNER JOIN dept_emp AS de
+ON (ri.emp_no = de.emp_no)
+INNER JOIN departments AS d
+ON (de.dept_no = d.dept_no)
+WHERE d.dept_name = 'Sales';
+
+-- For Sales and Development
+-- Use the IN condition with the WHERE clause
+
+SELECT ri.emp_no,
+	ri.first_name,
+	ri.last_name,
+	d.dept_name
+-- INTO sales_dev_emp
+FROM retirement_info as ri
+INNER JOIN dept_emp AS de
+ON (ri.emp_no = de.emp_no)
+INNER JOIN departments AS d
+ON (de.dept_no = d.dept_no)
+WHERE d.dept_name IN ('Sales', 'Development');
 
 
