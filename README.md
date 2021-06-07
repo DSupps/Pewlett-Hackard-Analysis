@@ -42,6 +42,9 @@ ________________________________________________________________________________
 
 ![mentorship_program_elig](https://user-images.githubusercontent.com/36451701/120945137-eecb5900-c705-11eb-97aa-bd50554c1e2f.png)
 
+
+![mentorship_program_elig_2](https://user-images.githubusercontent.com/36451701/120945320-9183d780-c706-11eb-9f68-bb015eac98b3.png)
+
 _________________________________________________________________________________________________________________________________________________________________________________
 ## Pewlett Hackard Challenge Summary
 
