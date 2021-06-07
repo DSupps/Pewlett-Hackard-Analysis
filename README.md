@@ -28,6 +28,7 @@
     - Approx 44% are in of the Staff Dept.
     - Approx 63% of the employees are in Senior positions.
     - Only a total of 2 are in managerial roles
+![retiring_titles](https://user-images.githubusercontent.com/36451701/120944979-3e5d5500-c705-11eb-8d66-6a90e1ccdc5c.png)
     
 - Analysis of mentorship_eligibilty list:
     - To be eligible for the mentorship program the employee had to be born in 1965 and currently employed by the company
@@ -36,7 +37,9 @@
     - Appox 48% are in the Engineering Dept
     - Approx 5% are in the Technique Leader Dept
     - There are 0 eligible in the Manager Dept
-    
+
+![mentorship_program_elig](https://user-images.githubusercontent.com/36451701/120945006-5c2aba00-c705-11eb-811f-7f43f7f87efa.png)
+ 
 ## Pewlett Hackard Challenge Summary
 
 Pewlett Hackard is a well establish company that currently has approximately 300,000 employees.  Like most companies, Pewlett Hackard is starting to look at their future. The company is currently looking at offering retirement packages for it's near retirement age baby boomer employees.  It's also starting to think about what positions will need to be filled due to those retirements.  Judging by the number of "silver tsunami" employees eligible for the retirement package, preparing now is a wise decision by the company.  
