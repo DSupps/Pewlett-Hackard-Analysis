@@ -29,7 +29,8 @@
     - Approx 63% of the employees are in Senior positions.
     - Only a total of 2 are in managerial roles
 
-![retiring_titles](https://user-images.githubusercontent.com/36451701/120944979-3e5d5500-c705-11eb-8d66-6a90e1ccdc5c.png)
+![retiring_titles](https://user-images.githubusercontent.com/36451701/120945129-e70bb480-c705-11eb-9a6d-5df66ab1e7c3.png)
+
 _________________________________________________________________________________________________________________________________________________________________________________    
 - Analysis of mentorship_eligibilty list:
     - To be eligible for the mentorship program the employee had to be born in 1965 and currently employed by the company
@@ -39,7 +40,7 @@ ________________________________________________________________________________
     - Approx 5% are in the Technique Leader Dept
     - There are 0 eligible in the Manager Dept
 
-![mentorship_program_elig](https://user-images.githubusercontent.com/36451701/120945006-5c2aba00-c705-11eb-811f-7f43f7f87efa.png)
+![mentorship_program_elig](https://user-images.githubusercontent.com/36451701/120945137-eecb5900-c705-11eb-97aa-bd50554c1e2f.png)
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ## Pewlett Hackard Challenge Summary
