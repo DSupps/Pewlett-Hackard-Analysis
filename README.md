@@ -21,7 +21,7 @@
 
 ## Pewlett Hackard Challenge Results
 
-Analysis of retiring_titles list:
+- Analysis of retiring_titles list:
     - The retiring_titles list shows the total number of the employees who are ready to retire by their most recent job title
     - The list shows that there are total of 90,398 "silver tsunami" employees who are about ready to retire
     - Approx 50% are in the Engineering Dept.
@@ -29,7 +29,7 @@ Analysis of retiring_titles list:
     - Approx 63% of the employees are in Senior positions.
     - Only a total of 2 are in managerial roles
     
-Analysis of mentorship_eligibilty list:
+- Analysis of mentorship_eligibilty list:
     - To be eligible for the mentorship program the employee had to be born in 1965 and currently employed by the company
     - There are a total of 1,549 employees eligible for the mentorship program
     - Approx 47% are in the Staff Dept
