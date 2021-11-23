@@ -19,7 +19,7 @@
     - PgAdmin4
     - Jupyter Notebook 
 
-## Pewlett Hackard Challenge Results
+## Project Results:
 
 - Analysis of retiring_titles list:
     - The retiring_titles list shows the total number of the employees who are ready to retire by their most recent job title
@@ -46,7 +46,7 @@ ________________________________________________________________________________
 ![mentorship_program_elig_2](https://user-images.githubusercontent.com/36451701/120945320-9183d780-c706-11eb-9f68-bb015eac98b3.png)
 
 _________________________________________________________________________________________________________________________________________________________________________________
-## Pewlett Hackard Challenge Summary
+## Project Summary:
 
 Pewlett Hackard is a well establish company that currently has approximately 300,000 employees.  Like most companies, Pewlett Hackard is starting to look at their future. The company is currently looking at offering retirement packages for it's near retirement age baby boomer employees.  It's also starting to think about what positions will need to be filled due to those retirements.  Judging by the number of "silver tsunami" employees eligible for the retirement package, preparing now is a wise decision by the company.  
 
